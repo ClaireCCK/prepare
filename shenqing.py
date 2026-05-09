@@ -2,7 +2,7 @@
 """
 Created on Thu Sep  3 14:38:28 2020
 
-@author: 寇灿灿
+@author: kcc
 """
 # 解析网页数据
 
