@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  7 09:36:54 2020
 
-@author: 寇灿灿
+@author: kcc
 """
 
 # -*- coding: utf-8 -*-
